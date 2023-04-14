@@ -53,11 +53,14 @@ Resultado de la solución
 Ventana Login
 ![image](https://user-images.githubusercontent.com/130798797/232155045-68c5eb08-d000-48c5-8a3b-c096555237a9.png)
 
+
 Ventana de registro
 ![image](https://user-images.githubusercontent.com/130798797/232155088-fdd0f306-89dd-4d99-aef7-c91145c9018d.png)
 
+
 Ventana principal
 ![image](https://user-images.githubusercontent.com/130798797/232155182-b4bdd473-3f22-4d59-b412-66d50d3e0794.png)
+
 
 Ventana para actualizar usuario
 ![image](https://user-images.githubusercontent.com/130798797/232155120-09549efc-4f49-4991-8327-a7d9233e1aaa.png)
